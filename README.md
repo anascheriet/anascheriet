@@ -7,7 +7,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-
+<!--
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -21,7 +21,7 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
+-->
 -----
 <!--
 **anascheriet/anascheriet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
